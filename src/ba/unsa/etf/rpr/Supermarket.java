@@ -1,6 +1,6 @@
 package ba.unsa.etf.rpr;
 
-public class Supermarket {
+    public class Supermarket {
     private Artikl[] supermarket = new Artikl[100];
     private int uneseno;
 
